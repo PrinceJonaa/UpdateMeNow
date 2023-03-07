@@ -1,0 +1,35 @@
+{
+  "name": "updatemenow",
+  "version": "1.0.0",
+  "description": "News Tracker for Tech Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceJonaa/UpdateMeNow.git"
+  },
+  "keywords": [
+    "Update",
+    "Me",
+    "Now",
+    "Tech",
+    "News",
+    "Tracker"
+  ],
+  "author": "Jona",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/PrinceJonaa/UpdateMeNow/issues"
+  },
+  "homepage": "https://github.com/PrinceJonaa/UpdateMeNow#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "node": "^19.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.2"
+  }
+}
